@@ -8,14 +8,6 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
-  },
-  experimental: {
-    missingSuspenseWithCSRBailout: false,
-  },
-  webpack: (config, { isServer }) => {
-    config.resolve.fallback = { fs: false };
-    return config;
-  },
     remotePatterns: [
       {
         protocol: 'https',
@@ -43,10 +35,10 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     minimumCacheTTL: 60,
     dangerouslyAllowSVG: true,
-    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
   },
-  // Performans optimizasyonları
   experimental: {
+    missingSuspenseWithCSRBailout: false,
     optimizeCss: true,
     optimizePackageImports: ['lucide-react', 'framer-motion'],
   },
