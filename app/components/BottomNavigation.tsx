@@ -7,7 +7,6 @@ import {
   Home,
   Grid3X3,
   User,
-  Zap,
   ShieldCheck,
   ShoppingCart
 } from 'lucide-react'
@@ -37,12 +36,6 @@ const BottomNavigation = () => {
       label: 'Kategoriler',
       href: '/kategoriler',
       icon: Grid3X3
-    },
-    {
-      id: 'deals',
-      label: 'Fırsatlar',
-      href: '/#flash-deals',
-      icon: Zap
     },
     {
       id: 'compare',
