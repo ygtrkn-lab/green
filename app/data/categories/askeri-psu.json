@@ -1,0 +1,94 @@
+{
+  "category": "Askeri PSU",
+  "filters": {
+    "priceRange": {
+      "min": 2500,
+      "max": 4000
+    },
+    "specs": {
+      "wattage": [
+        "600W",
+        "750W",
+        "850W",
+        "1000W"
+      ],
+      "efficiency": [
+        "80+ Gold",
+        "80+ Platinum",
+        "80+ Titanium"
+      ],
+      "modular": [
+        "Tam Modüler",
+        "Yarı Modüler",
+        "Non-Modüler"
+      ],
+      "warranty": [
+        "5 Yıl",
+        "7 Yıl",
+        "10 Yıl"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "psu001",
+      "name": "HP EVO 600W Askeri",
+      "slug": "hp-evo-600w-askeri",
+      "shortDescription": "600W 80+ Gold, tam modüler askeri güç kaynağı",
+      "price": 2899,
+      "oldPrice": 3299,
+      "rating": 4.9,
+      "reviews": 32,
+      "badge": "Askeri",
+      "badgeColor": "bg-gray-700",
+      "specs": {
+        "wattage": "600W",
+        "efficiency": "80+ Gold",
+        "modular": "Tam Modüler",
+        "warranty": "10 Yıl"
+      },
+      "features": [
+        "600W Güç Kapasitesi",
+        "80+ Gold Verimlilik",
+        "Tam Modüler Kablo Sistemi",
+        "Japon Kapasitörler",
+        "10 Yıl Garanti",
+        "Askeri Standart Kalite"
+      ],
+      "stock": 20,
+      "description": "<div class='space-y-4'><p>HP EVO 600W Askeri, askeri standartlarda üretilmiş yüksek kaliteli güç kaynağıdır. 80+ Gold verimlilik sertifikası ve tam modüler kablo sistemi ile temiz ve verimli güç sağlar. 10 yıl garanti ile uzun ömürlü kullanım sunar.</p></div>",
+      "warranty": "10 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "psu002",
+      "name": "HP EVO 750W Askeri",
+      "slug": "hp-evo-750w-askeri",
+      "shortDescription": "750W 80+ Gold, tam modüler askeri güç kaynağı",
+      "price": 3599,
+      "oldPrice": 3999,
+      "rating": 4.9,
+      "reviews": 28,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "wattage": "750W",
+        "efficiency": "80+ Gold",
+        "modular": "Tam Modüler",
+        "warranty": "10 Yıl"
+      },
+      "features": [
+        "750W Güç Kapasitesi",
+        "80+ Gold Verimlilik",
+        "Tam Modüler Kablo Sistemi",
+        "Premium Japon Kapasitörler",
+        "10 Yıl Garanti",
+        "Yüksek Performans Gaming"
+      ],
+      "stock": 15,
+      "description": "<div class='space-y-4'><p>HP EVO 750W Askeri, yüksek performanslı gaming sistemler için tasarlanmış askeri kalitede güç kaynağıdır. 750W kapasitesi ile en güçlü ekran kartlarını destekler. Premium Japon kapasitörler ve 10 yıl garanti ile güvenilir performans sunar.</p></div>",
+      "warranty": "10 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

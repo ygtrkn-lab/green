@@ -1,0 +1,289 @@
+{
+  "header": {
+    "menu": {
+      "computer": {
+        "name": "Bilgisayar",
+        "description": "Gaming PC ve AIO sistemler"
+      },
+      "cooling": {
+        "name": "Soğutma",
+        "description": "Hava, sıvı soğutma ve kasa fanları"
+      },
+      "powerSupply": {
+        "name": "Güç Kaynağı",
+        "description": "Askeri ve gaming güç kaynakları"
+      },
+      "pcCase": {
+        "name": "PC Kasası",
+        "description": "Modern ve gaming PC kasaları"
+      },
+      "gamingAccessories": {
+        "name": "Gaming Aksesuar",
+        "description": "Klavye, mouse ve kulaklık"
+      }
+    },
+    "categories": {
+      "gamingPc": "Gaming PC",
+      "aioPc": "AIO PC",
+      "liquidCooling": "Sıvı Soğutma",
+      "airCooling": "Hava Soğutma",
+      "caseFan": "Kasa Fanı",
+      "militaryPsu": "Askeri PSU",
+      "gamingPsu": "Gaming PSU",
+      "pcCase": "PC Kasası",
+      "keyboard": "Klavye",
+      "mouse": "Mouse",
+      "headset": "Kulaklık"
+    },
+    "contact": {
+      "title": "İletişim",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "callUs": "Bizi Arayın"
+    },
+    "language": {
+      "turkish": "Türkçe",
+      "english": "İngilizce",
+      "selectLanguage": "Dil Seçin"
+    },
+    "featuredProducts": "Öne Çıkan Ürünler",
+    "login": "Giriş Yap",
+    "mobileMenu": "Menü"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "currency": "TL",
+    "currencySymbol": "₺",
+    "categories": "Kategoriler",
+    "products": "Ürünler",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "addToCart": "Sepete Ekle",
+    "buyNow": "Hemen Al",
+    "viewDetails": "Detayları Gör",
+    "price": "Fiyat",
+    "inStock": "Stokta",
+    "outOfStock": "Stokta Yok",
+    "discount": "İndirim",
+    "save": "Kaydet",
+    "starting": "başlangıç",
+    "backToTop": "Yukarı Çık"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "categories": "Kategoriler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "support": "Destek"
+  },
+  "footer": {
+    "sections": {
+      "company": "Kurumsal",
+      "support": "Destek",
+      "categories": "Kategoriler",
+      "contact": "İletişim",
+      "legal": "KVKK ve Yasal Haklar",
+      "warranty": "Green Garanti",
+      "dealers": "Green Bayileri",
+      "social": "Sosyal Medya"
+    },
+    "links": {
+      "aboutUs": "Green Hakkında",
+      "companyInfo": "Şirket Bilgileri",
+      "contact": "Bize Ulaşın",
+      "bankInfo": "Banka Hesap Bilgileri",
+      "warranty": "Genel Garanti Koşulları",
+      "returns": "Teslimat ve İade Şartları",
+      "privacy": "Gizlilik Politikası",
+      "cookies": "Çerez Politikası",
+      "agreement": "Mesafeli Satış Sözleşmesi",
+      "allCategories": "Tüm Kategoriler",
+      "gamingPc": "Gaming PC",
+      "cooling": "Sıvı Soğutma",
+      "accessories": "Gaming Mouse",
+      "keyboard": "Klavye",
+      "headset": "Kulaklık",
+      "kvkkInfo": "KVKK Aydınlatma Metni",
+      "aioWarranty": "AIO Garanti Koşulları",
+      "psuWarranty": "Güç Kaynakları Garanti Koşulları",
+      "mouseKeyboardWarranty": "Mouse ve Klavye Garanti Koşulları",
+      "coolingWarranty": "Soğutucular Garanti Koşulları",
+      "dealers": "Green Bayileri",
+      "userInfo": "Kullanıcı Bilgilerim",
+      "dealerUpload": "Bayi Belge Yükleme",
+      "dealerPayment": "Bayi Ödemesi",
+      "xmlDealer": "XML Bayilik"
+    },
+    "description": "Gaming dünyasının en kaliteli ürünlerini Türkiye'deki oyunculara ulaştırmak için buradayız.",
+    "companyName": "GREEN PLANET GAMING",
+    "copyright": "Tüm hakları saklıdır",
+    "addresses": {
+      "center": "Merkez",
+      "centerAddress": "Finanskent Mah. Finans Cad. Sarphan Finanspark Sit. C Blok No: 5/23 Ümraniye – İstanbul / TÜRKİYE",
+      "sales": "Satış ve Pazarlama",
+      "salesAddress": "Atatürk Mah. Ertuğrul Gazi Sok. Metropol İstanbul Sitesi C1 Blok Apt. No:2B 375 Ataşehir – İstanbul / TÜRKİYE",
+      "showroom": "Showroom ve Satış",
+      "showroomAddress": "Şerifali Mah. Hattat Sk. No:19 Ümraniye – İstanbul / TÜRKİYE"
+    },
+    "phones": {
+      "main": "+90 216 473 36 01",
+      "green": "+90 216 GREEN 01"
+    }
+  },
+  "hero": {
+    "featuredProduct": "Öne Çıkan Ürün",
+    "starting": "başlangıç",
+    "watchVideo": "Video İzle",
+    "explore": "Keşfet",
+    "discover": "Keşfet",
+    "examine": "İncele",
+    "buyNow": "Satın Al",
+    "slides": {
+      "aio": {
+        "title": "AIO PC Sistemleri",
+        "subtitle": "H610 Kalitesiyle 22-24-27inch Hepsi Bir Arada Bilgisayarlar",
+        "description": "Kullanıma hazır All-in-One PC sistemleri. Kompakt tasarım ile güçlü performans bir arada.",
+        "features": ["4K Ekran", "HDR Desteği", "RTX 4070", "Ray Tracing", "Intel i7", "Yüksek Performans", "Kompakt Tasarım", "Şık Görünüm"]
+      },
+      "gaming": {
+        "title": "Gaming PC'ler",
+        "subtitle": "RTX 4060 ile Oyun Deneyimi",
+        "description": "Profesyonel oyuncular için tasarlanmış yüksek performanslı gaming bilgisayarlar.",
+        "features": ["RTX 4090", "4K Gaming", "Intel i9-13900K", "Maksimum Güç", "32GB DDR5", "Yüksek Hız", "2TB NVMe SSD", "Ultra Hızlı"]
+      },
+      "powerSupply": {
+        "title": "Güç Kaynakları",
+        "subtitle": "HP EVO 80Plus GOLD Serisi",
+        "description": "ARGB aydınlatmalı, askeri tasarımlı güç kaynakları. %93'e varan verimlilik.",
+        "features": ["80Plus GOLD", "ARGB Aydınlatma", "5 Yıl Garanti", "Askeri Tasarım"]
+      },
+      "airCooling": {
+        "title": "Hava Soğutucular",
+        "subtitle": "NOTUS 400-ARGB Serisi",
+        "description": "4 bakır ısı borusu ve ARGB aydınlatma ile güçlü soğutma performansı.",
+        "features": ["4x Isı Borusu", "ARGB Infinity Mirror", "1800RPM Fan", "HDT Teknolojisi"]
+      },
+      "liquidCooling": {
+        "title": "Sıvı Soğutma",
+        "subtitle": "GLACIER 240 STREAM-ARGB",
+        "description": "240mm radyatör ve ARGB fanlar ile sessiz ve güçlü soğutma çözümü.",
+        "features": ["240mm Radyatör", "ARGB Fanlar", "Bakır Rulman", "2 Yıl Garanti", "360mm Radyatör", "Maksimum Soğutma", "RGB Aydınlatma", "Şık Görünüm", "Sessiz Çalışma", "25dB", "Kolay Montaj", "Tak-Çalıştır"]
+      },
+      "caseFan": {
+        "title": "Kasa Fanları",
+        "subtitle": "GF120-FSB Ultra Sessiz",
+        "description": "FSB teknolojisi ile ultra sessiz çalışma ve uzun ömür garantisi.",
+        "features": ["Ultra Sessiz", "FSB Teknolojisi", "Shark-Fin Tasarım", "Anti-Titreşim"]
+      },
+      "keyboard": {
+        "title": "Gaming Klavyeler",
+        "subtitle": "GK702-RGB Mekanik Hissi",
+        "description": "19 anti-ghost tuş ve 4 makro tuş ile profesyonel oyun deneyimi.",
+        "features": ["19 Anti-Ghost", "RGB Aydınlatma", "4 Makro Tuş", "Türkçe Q Layout"]
+      },
+      "mouse": {
+        "title": "Gaming Mouse",
+        "subtitle": "GM606 RGB Mesh Tasarım",
+        "description": "7200 DPI hassasiyet ve mesh gövde ile hafif ve ergonomik tasarım.",
+        "features": ["7200 DPI", "Mesh Gövde", "6 Tuş", "ARGB Aydınlatma", "RGB Sync", "Tam Kontrol", "Premium Kalite", "Uzun Ömür"]
+      },
+      "pcCase": {
+        "title": "PC Kasaları",
+        "subtitle": "GREEN GAIA Tempered Glass",
+        "description": "Gelişmiş havalandırma ve kablo yönetimi ile modern PC kasaları. RGB aydınlatma desteği.",
+        "features": ["Tempered Glass", "RGB Aydınlatma", "Kablo Yönetimi", "Gelişmiş Havalandırma"]
+      },
+      "headset": {
+        "title": "Gaming Headset",
+        "subtitle": "GH505 7.1 Surround Sound",
+        "description": "Profesyonel oyuncular için tasarlanmış 7.1 surround sound gaming kulaklık.",
+        "features": ["7.1 Surround", "RGB Aydınlatma", "Noise Cancelling", "Ergonomik Tasarım"]
+      }
+    },
+    "featureCards": {
+      "secureShoppingTitle": "Güvenli Alışveriş",
+      "secureShoppingSubtitle": "256-bit SSL şifreleme",
+      "warrantyTitle": "2 Yıl Garanti",
+      "warrantySubtitle": "Ücretsiz teknik destek",
+      "psuWarrantyTitle": "PSU Garantisi",
+      "psuWarrantySubtitle": "10 Yıl 10 Ay'a varan",
+      "premiumQualityTitle": "Premium Kalite",
+      "premiumQualitySubtitle": "Türkiye'nin en büyük"
+    }
+  },
+  "products": {
+    "featured": "Öne Çıkan Ürünler",
+    "specifications": "Özellikler",
+    "description": "Açıklama",
+    "reviews": "Değerlendirmeler",
+    "relatedProducts": "İlgili Ürünler"
+  },
+  "pages": {
+    "categories": {
+      "title": "Kategoriler",
+      "description": "Gaming ürün kategorilerimizi keşfedin",
+      "featured": {
+        "title": "Öne Çıkan Kategoriler",
+        "subtitle": "Gaming Dünyasının En İyileri",
+        "description": "Profesyonel oyuncular için özel olarak seçilmiş premium gaming ekipmanları. Her kategoride en kaliteli ürünlerle gaming deneyiminizi zirveye taşıyın.",
+        "categories": {
+          "gamingPc": {
+            "name": "Gaming PC",
+            "description": "Yüksek performanslı gaming bilgisayarlar",
+            "features": ["RTX 4060TI", "Intel i5", "32GB RAM"]
+          },
+          "gamingMouse": {
+            "name": "Gaming Mouse",
+            "description": "Hassas sensörlü ve ergonomik gaming mouse'lar",
+            "features": ["7200 DPI", "RGB", "Ergonomik"]
+          },
+          "liquidCooling": {
+            "name": "Sıvı Soğutma",
+            "description": "AIO ve custom loop soğutma sistemleri",
+            "features": ["360mm", "ARGB", "AM5/LGA1700"]
+          }
+        },
+        "explore": "Keşfet",
+        "viewAllCategories": "Tüm Kategorileri Gör",
+        "downloadCatalog": "Katalog İndir"
+      }
+    },
+    "about": {
+      "title": "Green Hakkında",
+      "description": "Green Planet Gaming hakkında daha fazla bilgi edinin"
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "Ekibimizle iletişime geçin"
+    },
+    "warranty": {
+      "title": "Garanti Koşulları",
+      "description": "Genel garanti koşulları"
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "description": "Gizlilik politikamız ve veri koruma"
+    },
+    "returns": {
+      "title": "İade Politikası",
+      "description": "İade koşulları ve prosedürleri"
+    },
+    "company": {
+      "title": "Şirket Bilgileri",
+      "description": "Kurumsal bilgiler ve detaylar"
+    },
+    "bank": {
+      "title": "Banka Hesap Bilgileri",
+      "description": "Ödeme ve banka hesap detayları"
+    },
+    "agreement": {
+      "title": "Satış Sözleşmesi",
+      "description": "Satış şartları ve koşulları"
+    },
+    "cookies": {
+      "title": "Çerez Politikası",
+      "description": "Çerez kullanımımız hakkında bilgi"
+    }
+  }
+}

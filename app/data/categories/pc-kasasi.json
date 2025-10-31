@@ -1,0 +1,174 @@
+{
+  "category": "PC Kasası",
+  "filters": {
+    "priceRange": {
+      "min": 1500,
+      "max": 3000
+    },
+    "specs": {
+      "size": [
+        "Mid Tower",
+        "Full Tower",
+        "Mini Tower"
+      ],
+      "panel": [
+        "Temperli Cam",
+        "Mesh Panel",
+        "Akrilik"
+      ],
+      "rgb": [
+        "ARGB Fan",
+        "RGB Fan",
+        "Fan Yok"
+      ],
+      "motherboard": [
+        "ATX",
+        "mATX",
+        "ITX"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "case001",
+      "name": "GREEN GAIA TG",
+      "slug": "green-gaia-tg",
+      "shortDescription": "Temperli cam panelli, mesh ön panelli gaming kasa",
+      "price": 1899,
+      "oldPrice": 2199,
+      "rating": 4.8,
+      "reviews": 56,
+      "badge": "Trend",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "size": "Mid Tower",
+        "panel": "Temperli Cam",
+        "rgb": "ARGB Fan",
+        "motherboard": "ATX"
+      },
+      "features": [
+        "Temperli Cam Yan Panel",
+        "Mesh Ön Panel",
+        "3x ARGB Fan",
+        "ATX Anakart Desteği",
+        "USB 3.0 Portlar",
+        "Kolay Kablo Yönetimi"
+      ],
+      "stock": 42,
+      "description": "<div class='space-y-4'><p>GREEN GAIA TG, temperli cam yan panel ve mesh ön panel tasarımı ile hem görsellik hem de hava akışı sunar. 3 adet ARGB fan ile hazır soğutma çözümü ve kolay kablo yönetimi sağlar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "case002",
+      "name": "GREEN TITAN RGB",
+      "slug": "green-titan-rgb",
+      "shortDescription": "Full tower, çift temperli cam panelli premium kasa",
+      "price": 2599,
+      "oldPrice": 2999,
+      "rating": 4.9,
+      "reviews": 34,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "size": "Full Tower",
+        "panel": "Temperli Cam",
+        "rgb": "ARGB Fan",
+        "motherboard": "ATX"
+      },
+      "features": [
+        "Çift Temperli Cam Panel",
+        "4x ARGB Fan",
+        "360mm Radyatör Desteği",
+        "USB Type-C Port",
+        "Premium Kablo Yönetimi",
+        "Toz Filtreleri"
+      ],
+      "stock": 28,
+      "description": "<div class='space-y-4'><p>GREEN TITAN RGB, çift temperli cam panel ve premium yapısı ile üst segment gaming sistemler için tasarlanmıştır. 4 adet ARGB fan, geniş radyatör desteği ve modern bağlantı portları ile tam donanımlı bir kasadır.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "case003",
+      "name": "GRIFFIN G6",
+      "slug": "griffin-g6",
+      "shortDescription": "Temperli cam panelli, ARGB fanlı gaming kasa",
+      "price": 2199,
+      "oldPrice": 2499,
+      "rating": 0,
+      "reviews": 0,
+      "badge": "Yeni",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "size": "Mid Tower",
+        "panel": "Temperli Cam",
+        "rgb": "ARGB Fan",
+        "motherboard": "ATX",
+        "boyutlar": "450mm x 210mm x 460mm",
+        "agirlik": "6.5 kg",
+        "malzeme": "SPCC Çelik + Temperli Cam",
+        "fanDestegi": "Ön: 3x120mm, Üst: 2x120mm, Arka: 1x120mm",
+        "radyatorDestegi": "Ön: 360mm, Üst: 240mm",
+        "diskDestegi": "2x 3.5\" HDD, 4x 2.5\" SSD",
+        "genisletmeSlotlari": "7 Slot",
+        "maksEkranKartiUzunlugu": "370mm",
+        "maksCpuSogutucuYuksekligi": "165mm",
+        "maksPsuUzunlugu": "180mm",
+        "onPanelPortlari": "2x USB 3.0, 1x USB Type-C, Audio/Mic"
+      },
+      "features": [
+        "RGB Aydınlatma Kontrolü",
+        "Manyetik Toz Filtreleri",
+        "Kolay Montaj Sistemi",
+        "Premium Kablo Yönetimi",
+        "Yüksek Hava Akışı",
+        "Geniş Uyumluluk",
+        "Şık Tasarım",
+        "Sessiz Çalışma"
+      ],
+      "stock": 25,
+      "description": "<div class='product-description'><div class='hero-section' style='background-color: #101010; color: #ffffff; padding: 35px 20px; text-align: center;'><h2 style='font-size: 40px; margin-bottom: 20px;'>GRIFFIN G6 İle Hayal gücünüzün bir sınırı olmadığında!</h2><p style='font-size: 16px; text-align: justify;'>Ultra güçlü iskelet, geniş alana sahip modern iç tasarım, ön paneldeki 2 200mm fanlardan büyük hava akışı ve süper çekici ARGB aydınlatma ve USB 3.1 Gen 2 Type-C 10 Gbps bağlantı noktası gibi güncel özellikler GRIFFIN G6 kasasını profesyonel ve modern oyun sistemleri için akıllı bir seçim haline getiren özellikler arasında.</p></div><div class='feature-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center; margin-bottom: 30px;'><div style='flex: 1; padding-right: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Her zamankinden daha farklı görünün!</h2><p style='font-size: 16px; text-align: justify;'>Griffin G6 Green kasasının dış tasarımı, RGB aydınlatmayla donatılmış mümkün olduğunca çok sayıda üst düzey bileşenin sergilenmesine dayanıyor. Ön panele ve yan kapağa takılan füme ısıl işlem görmüş cam, modern ve çekici donanımınızın daha da öne çıkması için gerekli koşulları sağladı!</p></div><div style='flex: 1;'><img src='https://green.net.tr/wp-content/uploads/2024/10/GRIFFIN-G6.png' style='width: 100%; height: auto;' alt='GRIFFIN G6 Kasa'></div></div></div><div class='rgb-section' style='background-color: #101010; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_513_GRIFFIN-G6.png' style='width: 100%; height: auto;' alt='ARGB Aydınlatma'></div><div style='flex: 1; padding-left: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>ARGB aydınlatma sistemi onlarca çekici efekte sahiptir</h2><p style='font-size: 16px; text-align: justify;'>GRIFFIN G6 kasası ARGB (Adreslenebilir RGB) aydınlatma sistemi ile donatılmıştır.Bu yeni aydınlatma tekniğinde, dijital kontrol sinyalleri ve her ışık diyotunu ayrı ayrı adresleyip kontrol edebilme yeteneği sayesinde çok daha güzel aydınlatma efektleri göreceksiniz.Ayrıca, Bu durum için tasarlanan aydınlatma kumandası, onlarca renk ve ışık efektine sahip olmasının yanı sıra (hızı ayarlama özelliğiyle), 3Pin ARGB konnektörüyle donatılmış çoğu anakartla senkronizasyon (MB Sync) yapmak da mümkün. Ayrıca 5V'a da sahip.</p><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_429_GRIFFIN-G6.png' style='float: right; width: 250px; height: 113px; margin-top: 10px;' alt='RGB Kontrol'></div></div></div><div class='glass-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Temperli camdan yapılmış ön ve yan kapaklar</h2><p style='font-size: 16px; text-align: justify;'>Oyun kasalarının en çekici özelliklerinden biri her zaman kasanın içindeki donanımı sergileyebilen şeffaf yan kapak olmuştur. Bu modelin yan ve ön kapağında füme renkli temperli cam düşünülmüştür. Bu şeffaf kapağın açık dumanlı rengi aslında bu kasanın RGB aydınlatma renginin konsantrasyonunu artırıyor ve çekiciliğini daha da artırıyor.</p></div><div style='flex: 1;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_27_GRIFFIN-G6.png' style='width: 100%; height: auto;' alt='Temperli Cam Panel'></div></div></div><div class='vertical-gpu-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_580_GRIFFIN-G6.png' style='width: 100%; height: auto;' alt='Dikey GPU Montajı'></div><div style='flex: 1; padding-left: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Grafik kartını dikey olarak takma yeteneği</h2><p style='font-size: 16px; text-align: justify;'>Şeffaf yan kapakla donatılmış üst düzey kasalarda grafik kartını dikey olarak takabilme özelliği, oyunseverlerin özellikle ilgi duyduğu en çekici özelliklerden biri. GRIFFIN G6 kılıfı, bu kasayla uyumlu Dikey VGA Montaj Kiti sayesinde oyunculara kalite ve performans kaybı yaşamadan bu heyecan verici özelliği sağladı.</p><p style='color: #7f8c8d; font-size: 11px;'>* Dikey VGA Montaj Kiti bu kutuya dahil değildir ve ayrıca satılır.</p></div></div></div><div class='controller-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px; text-align: center;'><h2 style='color: #8dc63f; font-size: 36px; margin-bottom: 20px;'>Uzaktan kumandayla donatılmış verimli fan/aydınlatma kontrolörü</h2><p style='font-size: 16px; margin-bottom: 20px;'>Onlarca farklı aydınlatma efekti (ARGB) sağlama, aydınlatma efektlerinin hızını ve durmasını ayarlama yeteneğinin yanı sıra 3Pin ARGB soketi ile donatılmış anakartlarla fanların dönüş hızı (PWM) ve aydınlatma efektlerini senkronize etme imkanı 5V voltajın en önemli özellikleri arasında yer alan bu modern 9 kanallı kontrolör olarak değerlendirilmektedir.</p><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_976_GRIFFIN-G6.png' style='width: 100%; height: auto; max-width: 800px;' alt='Fan Kontrolörü'></div><div class='frame-section' style='background-color: #101010; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Modern tasarıma sahip süper güçlü çerçeve</h2><p style='font-size: 16px; text-align: justify;'>Maksimum 0,8 mm kalınlığa sahip çelik plaka, GRIFFIN G6 kasa iskeletinin modern tasarımıyla birlikte bu modelde son derece güçlü bir gövde görmemize neden oldu. Ayrıca kaymaz tabanlar sayesinde kasanın stabilitesi farklı seviyelerde korunuyor ve geniş ve optimum iç alana rağmen modern ve üst düzey bileşenlerin desteklenmesinde neredeyse hiçbir kısıtlama olmayacak.</p></div><div style='flex: 1;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_791_GRIFFIN-G6.png' style='width: 100%; height: auto;' alt='Güçlü Çerçeve'></div></div></div><div class='dust-filter-section' style='background-color: #101010; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729361275_128_GRIFFIN-G1.png.webp' style='width: 100%; height: auto;' alt='Toz Filtreleri'></div><div style='flex: 1; padding-left: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Toz girişi yasaktır!</h2><p style='font-size: 16px; text-align: justify;'>GRIFFIN G6 Green kasasının zeminindeki (elektrikli hava girişi), çatısındaki ve ön kısmındaki tüm hava giriş kanalları, yıkanabilir manyetik ve selüloz filtrelerle kaplıdır. Bu filtreler kasaya toz girmesini önlemede önemli rol oynuyor.</p></div></div></div><div class='cooling-section' style='background-color: #101010; color: #fcfcfc; padding: 30px 20px; text-align: center;'><h2 style='color: #8dc63f; font-size: 36px; margin-bottom: 20px;'>Her türlü fan ve su soğutucuyu destekleme konusunda büyük potansiyel</h2><p style='font-size: 16px; margin-bottom: 30px;'>GRIFFIN G6 kasası, ön kısmında iki adet güçlü 200mm fan ve kasanın arka kısmında süper sessiz bir 120mm fan ile birlikte gelir. Ayrıca bu kasanın modern iskeleti, 120/140/200mm ebatlarında 8 adete kadar fan ve 120/140/240/280/360mm ebatlarında su soğutucuları takabilecek şekilde tasarlanmıştır. Aslında bu durumda farklı tipte fanların ve su soğutucularının kurulumunda neredeyse hiçbir kısıtlama olmayacaktır.</p><div style='display: flex; justify-content: space-around; margin-bottom: 20px;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_289_GRIFFIN-G6.png' style='width: 45%; height: auto;' alt='Fan Desteği 1'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362170_187_GRIFFIN-G6.png' style='width: 45%; height: auto;' alt='Fan Desteği 2'></div></div><div class='interior-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px;'><div style='display: flex; align-items: center;'><div style='flex: 1; padding-right: 20px;'><h2 style='color: #8dc63f; font-size: 26px; margin-bottom: 15px;'>Modern bileşenlerin desteklenmesinde minimum kısıtlamaya sahip geniş iç mekan</h2><p style='font-size: 16px; text-align: justify;'>Maksimum boyutlara sahip anakartlar E-ATX (12″x13), maksimum 370 mm uzunluğa sahip üst düzey grafik kartları ve 165 mm yüksekliğe sahip hava soğutucuları desteği, kullanıcıların modern ve üst düzey bileşenler konusunda endişelenmemesine neden oldu. Bu orta sınıf 7 yuvalı kasanın çok geniş ve optimize edilmiş iç alanı, birçok açıdan üst düzey Full-Tower kasalara benzer!</p><p style='color: #7f8c8d; font-size: 11px;'>* E-ATX (12″x13) boyutlarındaki anakartların takılması durumunda, kabloları anakart tepsisinin arkasından yönetme yeteneği sınırlı olacaktır.</p></div><div style='flex: 1;'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729361275_211_GRIFFIN-G1.png.webp' style='width: 100%; height: auto;' alt='Geniş İç Mekan'></div></div></div><div class='storage-section' style='background-color: #101010; color: #fcfcfc; padding: 30px 20px; text-align: center;'><h2 style='color: #8dc63f; font-size: 36px; margin-bottom: 20px;'>Depolama ekipmanı bölümünde verimli alan</h2><p style='font-size: 16px; margin-bottom: 30px;'>Beş adede kadar 2,5 sürücü ve dört adede kadar 3,5 sürücü takma olanağı ile depolama ekipmanı bölmesini kişiselleştirme, taşıma ve hatta ayırma olanağı bu kasanın en önemli özelliklerinden biridir. Ayrıca kasanın alt kısmındaki bu bölümün ayrılabilmesi, bu model için her boyutta ATX (güç) güç kaynaklarının takılmasını mümkün kılmıştır.</p><div style='display: flex; justify-content: space-around;'><img src='https://green.net.tr/wp-content/uploads/2024/10/GRIFFIN-G6.gif' style='width: 30%; height: auto;' alt='Depolama 1'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362171_835_GRIFFIN-G6.gif' style='width: 30%; height: auto;' alt='Depolama 2'><img src='https://green.net.tr/wp-content/uploads/2024/10/1729362171_580_GRIFFIN-G6.gif' style='width: 30%; height: auto;' alt='Depolama 3'></div></div><div class='ports-section' style='background-color: #0e0e0e; color: #fcfcfc; padding: 30px 20px; text-align: center;'><h2 style='color: #8dc63f; font-size: 36px; margin-bottom: 20px;'>Ön panel modern ve son derece dayanıklı bağlantı noktalarıyla donatılmıştır</h2><p style='font-size: 16px; margin-bottom: 20px;'>Bu kasanın ön panelinde, giriş ve çıkış bağlantı noktalarının mümkün olan en modern kombinasyonu dikkate alınmıştır. USB 3.2 Gen2 10Gbps Type-C bağlantı noktasının yanı sıra iki USB 3.2 Gen 1 5Gbps bağlantı noktası, çevre birimlerine ve modern depolamaya bağlanmak için yüksek hızlı bir platform sağlar. Ayrıca bu portlarda paslanmaz çelik kullanılması ve kullanılan malzemenin güçlendirilmesi sayesinde dayanıklılıkları ve ömürleri ciddi oranda artırılmış olup, hava nemi yüksek olan bölgelerde dahi kullanılan metalin oksitlenme ihtimali bulunmamaktadır.</p><img src='https://green.net.tr/wp-content/uploads/2024/10/1729361275_698_GRIFFIN-G1.png.webp' style='width: 100%; height: auto; max-width: 800px;' alt='Ön Panel Portları'></div></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "sku": "32522107",
+      "images": [
+        {
+          "id": 1,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI.webp",
+          "alt": "GRIFFIN G6 Görünüm 1"
+        },
+        {
+          "id": 2,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (2).webp",
+          "alt": "GRIFFIN G6 Görünüm 2"
+        },
+        {
+          "id": 3,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (3).webp",
+          "alt": "GRIFFIN G6 Görünüm 3"
+        },
+        {
+          "id": 4,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (4).webp",
+          "alt": "GRIFFIN G6 Görünüm 4"
+        },
+        {
+          "id": 5,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (5).webp",
+          "alt": "GRIFFIN G6 Görünüm 5"
+        },
+        {
+          "id": 6,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (6).webp",
+          "alt": "GRIFFIN G6 Görünüm 6"
+        },
+        {
+          "id": 7,
+          "url": "/images/products/pc-kasasi/G6/GREEN-GRIFFIN-G6-PC-OYUNCU-KASASI (7).webp",
+          "alt": "GRIFFIN G6 Görünüm 7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "category": "CPU Hava Soğutucu",
+  "filters": {
+    "priceRange": {
+      "min": 350,
+      "max": 1200
+    },
+    "specs": {
+      "series": [
+        "NOTUS",
+        "TinyCool"
+      ],
+      "intel_socket": [
+        "LGA1150",
+        "LGA1151",
+        "LGA1155",
+        "LGA1366",
+        "LGA2011",
+        "LGA2066",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "amd_socket": [
+        "AM4",
+        "AM3+",
+        "AM2/+",
+        "FM1",
+        "+/FM2",
+        "AM5"
+      ],
+      "tdp": [
+        "65W",
+        "95W",
+        "100W",
+        "125W",
+        "160W",
+        "200W"
+      ],
+      "heat_pipes": [
+        "2x 6mm U Şeklinde",
+        "3x 6mm U Şeklinde",
+        "4x 6mm U Şeklinde"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "notus-400",
+      "name": "NOTUS 400-ARGB",
+      "slug": "notus-400-argb",
+      "shortDescription": "6 mm çapında 4 bakır ısı borusu ve temas tekniği ile güçlü soğutma performansı",
+      "price": 1105.74,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "NOTUS",
+        "heat_pipes": "4x 6mm U Şeklinde",
+        "fan_speed": "1800 RPM",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "200W"
+      },
+      "features": [
+        "6 mm çapında 4 adet Isı Borusu ile donatılmıştır",
+        "48 adet siyah eloksallı alüminyum kanatla donatılmış kule",
+        "Heat-Pipe Direct Touch (HDT) temas tekniği",
+        "Hidro Rulman çekirdeği ile donatılmış güçlü bir 120 mm 1800 RPM fana sahiptir",
+        "İkinci fan takmak için ek bir brakete sahip olmak",
+        "Sonsuzluk Aynası efektli ARGB tipi aydınlatma",
+        "Anakartla senkronizasyon (MB Sync) özelliği",
+        "Süper düşük fan gürültüsü",
+        "Silikon titreşim önleyici"
+      ],
+      "stock": 10,
+      "description": "<div class='space-y-4'><p>NOTUS 400-ARGB Green CPU soğutucusu, 6 mm çapında 4 bakır ısı borusu ve temas tekniği (Heat-Pipe Direct Touch (HDT), 48'den fazla siyah eloksallı alüminyum kanat, güçlü 1800RPM fan, son derece sessiz ve dayanıklı, ARGB aydınlatma) tabanıdır. Infinity Mirror fanı ve üst kısmı, hafifliği ve kolay kurulumuyla birlikte bugün piyasadaki en modern oyun masaüstü ve sunucu işlemcilerine ev sahipliği yapmaya hazır olacak.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "inStock": true
+    },
+    {
+      "id": "notus-300",
+      "name": "NOTUS 300-ARGB",
+      "slug": "notus-300-argb",
+      "shortDescription": "Orta segment işlemciler için ideal soğutma çözümü",
+      "price": 840.36,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "NOTUS",
+        "heat_pipes": "3x 6mm U Şeklinde",
+        "fan_speed": "1600 RPM",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "160W"
+      },
+      "stock": 15,
+      "inStock": true
+    },
+    {
+      "id": "notus-100",
+      "name": "NOTUS 100-ARGB",
+      "slug": "notus-100-argb",
+      "shortDescription": "Kompakt tasarım, etkili soğutma",
+      "price": 726.62,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "NOTUS",
+        "heat_pipes": "2x 6mm U Şeklinde",
+        "fan_speed": "1500 RPM",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "125W"
+      },
+      "stock": 20,
+      "inStock": true
+    },
+    {
+      "id": "notus-95",
+      "name": "NOTUS 95-ARGB",
+      "slug": "notus-95-argb",
+      "shortDescription": "Giriş seviyesi işlemciler için uygun fiyatlı çözüm",
+      "price": 358.21,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "NOTUS",
+        "heat_pipes": "2x 6mm U Şeklinde",
+        "fan_speed": "1200 RPM",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "95W"
+      },
+      "stock": 25,
+      "inStock": true
+    }
+  ]
+}

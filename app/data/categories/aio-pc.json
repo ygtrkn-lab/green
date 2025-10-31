@@ -1,0 +1,216 @@
+  {
+  "category": "AIO PC",
+  "filters": {
+    "priceRange": {
+      "min": 20000,
+      "max": 45000
+    },
+    "specs": {
+      "cpu": [
+        "Intel Core i5",
+        "Intel Core i7",
+        "AMD Ryzen 5",
+        "AMD Ryzen 7"
+      ],
+      "screen": [
+        "21.5 inch",
+        "24 inch",
+        "27 inch"
+      ],
+      "ram": [
+        "8GB",
+        "16GB",
+        "32GB"
+      ],
+      "storage": [
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "aio002",
+      "name": "AIO GT27-R732TB",
+      "slug": "aio-gt27-r732tb",
+      "shortDescription": "27 inch ekran, AMD Ryzen 7 işlemci, 32GB RAM ve 1TB M.2 SSD ile güçlü All-in-One sistem",
+      "price": 35999,
+      "oldPrice": 39999,
+      "rating": 0,
+      "reviews": 0,
+      "badge": "Yeni",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "cpu": "AMD Ryzen 7",
+        "screen": "27 inch",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "stock": 5,
+      "description": "<div class='space-y-4'><p>AIO GT27-R732TB, geniş 27 inch ekranı ve yüksek performanslı AMD Ryzen 7 işlemcisi ile hem iş hem de eğlence için mükemmel bir All-in-One bilgisayardır. 32GB RAM ve 1TB SSD depolama ile çoklu görevler için ideal çözüm sunar.</p></div>",
+      "features": [
+        "<img src='https://r.resimlink.com/q7p6MG58x.png' alt='Ürün Detayları' class='w-full mb-4'/>",
+        "27 inch Full HD Ekran",
+        "AMD Ryzen 7 İşlemci",
+        "32GB DDR4 RAM",
+        "1TB M.2 SSD",
+        "Full HD Webcam",
+        "Dolby Audio Hoparlör",
+        "Kablosuz Klavye & Mouse Set"
+      ],
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "sku": "32522105",
+      "images": [
+        {
+          "id": 1,
+          "url": "/images/products/aio-pc/aio002/aio-gt24-i516sw-i5-16gb-512gbm2-h6-2093.png",
+          "alt": "AIO GT27-R732TB Görünüm 1"
+        },
+        {
+          "id": 2,
+          "url": "/images/products/aio-pc/aio002/aio-gt24-i516sw-i5-16gb-512gbm2-h6-2081-600x600.png",
+          "alt": "AIO GT27-R732TB Görünüm 2"
+        },
+        {
+          "id": 3,
+          "url": "/images/products/aio-pc/aio002/aio-gt24-i516sw-i5-16gb-512gbm2-h6-2082-600x600.png",
+          "alt": "AIO GT27-R732TB Görünüm 3"
+        },
+        {
+          "id": 4,
+          "url": "/images/products/aio-pc/aio002/aio-gt24-i516sw-i5-16gb-512gbm2-h6-2083-600x600.png",
+          "alt": "AIO GT27-R732TB Görünüm 4"
+        },
+        {
+          "id": 5,
+          "url": "/images/products/aio-pc/aio002/aio-gt24-i516sw-i5-16gb-512gbm2-h6-2085-600x600.png",
+          "alt": "AIO GT27-R732TB Görünüm 5"
+        }
+      ]
+    },
+    {
+      "id": "aio003",
+      "name": "AIO GT24-i716SW",
+      "slug": "aio-gt24-i716sw",
+      "shortDescription": "24 inch ekran, Intel Core i7 işlemci, 16GB RAM ve 512GB M.2 SSD ile yüksek performanslı All-in-One sistem",
+      "price": 31999,
+      "oldPrice": 34999,
+      "rating": 0,
+      "reviews": 0,
+      "badge": "Yeni",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "cpu": "Intel Core i7",
+        "screen": "24 inch",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "stock": 8,
+      "description": "<div class='space-y-4'><p>AIO GT24-i716SW, güçlü Intel Core i7 işlemcisi ve 24 inch Full HD ekranı ile profesyonel kullanım için tasarlanmış All-in-One bilgisayardır. 16GB RAM ve 512GB SSD ile hızlı performans ve geniş depolama alanı sunar.</p></div>",
+      "features": [
+        "<img src='https://i.ibb.co/1fVx066t/24.png' alt='Ürün Detayları' class='w-full mb-4'/>",
+        "24 inch Full HD IPS Ekran",
+        "Intel Core i7 İşlemci",
+        "16GB DDR4 RAM",
+        "512GB M.2 NVMe SSD",
+        "Full HD Webcam",
+        "Dolby Audio Hoparlör",
+        "Kablosuz Klavye & Mouse Set",
+        "USB 3.0 ve Type-C Portları",
+        "Wi-Fi 6 ve Bluetooth 5.0"
+      ],
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "sku": "32522106",
+      "images": [
+        {
+          "id": 1,
+          "url": "/images/products/aio-pc/aio003/aio-gt24-i58sb-i5-8gb-512gbm2-h6-2064.jpg",
+          "alt": "AIO GT24-i716SW Görünüm 1"
+        },
+        {
+          "id": 2,
+          "url": "/images/products/aio-pc/aio003/aio-gt24-i58sb-i5-8gb-512gbm2-h6-2060-600x600.png",
+          "alt": "AIO GT24-i716SW Görünüm 2"
+        },
+        {
+          "id": 3,
+          "url": "/images/products/aio-pc/aio003/aio-gt24-i58sb-i5-8gb-512gbm2-h6-2061-600x600.png",
+          "alt": "AIO GT24-i716SW Görünüm 3"
+        },
+        {
+          "id": 4,
+          "url": "/images/products/aio-pc/aio003/aio-gt24-i58sb-i5-8gb-512gbm2-h6-2062-600x600.png",
+          "alt": "AIO GT24-i716SW Görünüm 4"
+        },
+        {
+          "id": 5,
+          "url": "/images/products/aio-pc/aio003/aio-gt24-i58sb-i5-8gb-512gbm2-h6-2063-600x600.png",
+          "alt": "AIO GT24-i716SW Görünüm 5"
+        }
+      ]
+    },
+    {
+      "id": "aio001",
+      "name": "AIO GT24-i516SB",
+      "slug": "aio-gt24-i516sb",
+      "shortDescription": "24 inch ekran, Intel i5 işlemci, 16GB RAM ve 512GB M.2 SSD ile All-in-One sistem",
+      "price": 27738,
+      "oldPrice": 30538,
+      "rating": 0,
+      "reviews": 0,
+      "badge": "Yeni",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "cpu": "Intel Core i5",
+        "screen": "24 inch",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "stock": 10,
+      "description": "<div class='space-y-4'><p>AIO GT24-i516SB, kompakt tasarımı ve güçlü performansı ile ofis ve ev kullanımı için ideal All-in-One bilgisayardır. 24 inch Full HD ekranı, Intel i5 işlemcisi ve 16GB RAM ile verimli çalışma deneyimi sunar.</p></div>",
+      "features": [
+        "<img src='https://i.ibb.co/1fVx066t/24.png' alt='Ürün Detayları' class='w-full mb-4'/>",
+        "24 inch Full HD Ekran",
+        "Intel Core i5 İşlemci",
+        "16GB DDR4 RAM",
+        "512GB M.2 SSD",
+        "Entegre Webcam",
+        "Stereo Hoparlör",
+        "Kablosuz Klavye & Mouse Set"
+      ],
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "sku": "32522104",
+      "images": [
+        {
+          "id": 1,
+          "url": "/images/products/aio-pc/aio001/aio-gt24-i516sb-i5-16gb-512gbm2-h6-2065.jpg",
+          "alt": "AIO GT24-i516SB Görünüm 1"
+        },
+        {
+          "id": 2,
+          "url": "/images/products/aio-pc/aio001/aio-gt24-i516sb-i5-16gb-512gbm2-h6-2066-600x600.png",
+          "alt": "AIO GT24-i516SB Görünüm 2"
+        },
+        {
+          "id": 3,
+          "url": "/images/products/aio-pc/aio001/aio-gt24-i516sb-i5-16gb-512gbm2-h6-2067.png",
+          "alt": "AIO GT24-i516SB Görünüm 3"
+        },
+        {
+          "id": 4,
+          "url": "/images/products/aio-pc/aio001/aio-gt24-i516sb-i5-16gb-512gbm2-h6-2068.png",
+          "alt": "AIO GT24-i516SB Görünüm 4"
+        },
+        {
+          "id": 5,
+          "url": "/images/products/aio-pc/aio001/aio-gt24-i516sb-i5-16gb-512gbm2-h6-2069-600x600.png",
+          "alt": "AIO GT24-i516SB Görünüm 5"
+        }
+      ]
+    }
+  ]
+}

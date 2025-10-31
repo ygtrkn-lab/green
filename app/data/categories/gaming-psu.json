@@ -1,0 +1,95 @@
+{
+  "category": "Gaming PSU",
+  "filters": {
+    "priceRange": {
+      "min": 2000,
+      "max": 3500
+    },
+    "specs": {
+      "wattage": [
+        "650W",
+        "750W",
+        "850W",
+        "1000W"
+      ],
+      "efficiency": [
+        "80+ Bronze",
+        "80+ Gold",
+        "80+ Platinum"
+      ],
+      "modular": [
+        "Tam Modüler",
+        "Yarı Modüler",
+        "Non-Modüler"
+      ],
+      "rgb": [
+        "RGB Fan",
+        "ARGB Fan",
+        "RGB Kablo",
+        "RGB Yok"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "gpsu001",
+      "name": "Gaming PSU 650W RGB",
+      "slug": "gaming-psu-650w-rgb",
+      "shortDescription": "650W RGB aydınlatmalı gaming güç kaynağı",
+      "price": 2299,
+      "oldPrice": 2699,
+      "rating": 4.7,
+      "reviews": 45,
+      "badge": "RGB",
+      "badgeColor": "bg-purple-500",
+      "specs": {
+        "wattage": "650W",
+        "efficiency": "80+ Gold",
+        "modular": "Yarı Modüler",
+        "rgb": "RGB Fan"
+      },
+      "features": [
+        "650W Güç Kapasitesi",
+        "80+ Gold Verimlilik",
+        "RGB Aydınlatmalı Fan",
+        "Yarı Modüler Kablo Sistemi",
+        "Gaming Optimized",
+        "5 Yıl Garanti"
+      ],
+      "stock": 30,
+      "description": "<div class='space-y-4'><p>Gaming PSU 650W RGB, gaming sistemler için özel olarak tasarlanmış RGB aydınlatmalı güç kaynağıdır. 80+ Gold verimlilik ve yarı modüler kablo sistemi ile hem performans hem de estetik sunar.</p></div>",
+      "warranty": "5 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "gpsu002",
+      "name": "Gaming PSU 850W RGB",
+      "slug": "gaming-psu-850w-rgb",
+      "shortDescription": "850W yüksek performanslı RGB gaming güç kaynağı",
+      "price": 3199,
+      "oldPrice": 3699,
+      "rating": 4.8,
+      "reviews": 38,
+      "badge": "Gaming",
+      "badgeColor": "bg-red-500",
+      "specs": {
+        "wattage": "850W",
+        "efficiency": "80+ Gold",
+        "modular": "Tam Modüler",
+        "rgb": "ARGB Fan"
+      },
+      "features": [
+        "850W Güç Kapasitesi",
+        "80+ Gold Verimlilik",
+        "ARGB Aydınlatmalı Fan",
+        "Tam Modüler Kablo Sistemi",
+        "Yüksek Performans Gaming",
+        "5 Yıl Garanti"
+      ],
+      "stock": 22,
+      "description": "<div class='space-y-4'><p>Gaming PSU 850W RGB, yüksek performanslı gaming sistemler için tasarlanmış ARGB aydınlatmalı güç kaynağıdır. 850W kapasitesi ile en güçlü gaming bileşenlerini destekler. Tam modüler kablo sistemi ile temiz kasa düzeni sağlar.</p></div>",
+      "warranty": "5 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

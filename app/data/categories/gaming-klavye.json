@@ -1,0 +1,59 @@
+{
+  "category": "Gaming Klavye",
+  "filters": {
+    "priceRange": {
+      "min": 500,
+      "max": 3000
+    },
+    "specs": {
+      "switchType": [
+        "Cherry MX Red",
+        "Cherry MX Blue",
+        "Cherry MX Brown",
+        "Optical Switch"
+      ],
+      "connectivity": [
+        "USB-A",
+        "USB-C",
+        "Wireless"
+      ],
+      "layout": [
+        "TR Q",
+        "US",
+        "UK"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "gkb001",
+      "name": "Green Mechanical Gaming Keyboard",
+      "slug": "green-mechanical-gaming-keyboard",
+      "shortDescription": "RGB Mekanik Gaming Klavye",
+      "price": 1299,
+      "oldPrice": 1599,
+      "rating": 4.5,
+      "reviews": 45,
+      "stock": 25,
+      "specs": {
+        "switchType": "Cherry MX Red",
+        "backlight": "RGB LED",
+        "connectivity": "USB-C",
+        "layout": "TR Q Klavye",
+        "material": "Alüminyum Çerçeve",
+        "dimensions": "440 x 135 x 35mm"
+      },
+      "features": [
+        "Cherry MX Red Switch",
+        "RGB Aydınlatma",
+        "Anti-Ghosting",
+        "Makro Tuşları",
+        "USB-C Bağlantı",
+        "Alüminyum Çerçeve"
+      ],
+      "description": "Profesyonel oyuncular için tasarlanmış mekanik gaming klavye.",
+      "warranty": "2 Yıl Garanti",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

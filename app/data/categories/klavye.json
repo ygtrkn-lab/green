@@ -1,0 +1,94 @@
+{
+  "category": "Klavye",
+  "filters": {
+    "priceRange": {
+      "min": 400,
+      "max": 2000
+    },
+    "specs": {
+      "switch": [
+        "Mekanik Blue",
+        "Mekanik Red",
+        "Mekanik Brown",
+        "Membran"
+      ],
+      "layout": [
+        "Full Size",
+        "TKL",
+        "60%"
+      ],
+      "lighting": [
+        "RGB",
+        "Tek Renk",
+        "Yok"
+      ],
+      "language": [
+        "TR-Q",
+        "TR-F",
+        "EN-US"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "kb001",
+      "name": "GK702-RGB Klavye",
+      "slug": "gk702-rgb-klavye",
+      "shortDescription": "RGB aydınlatmalı gaming mekanik klavye",
+      "price": 646,
+      "oldPrice": 799,
+      "rating": 4.7,
+      "reviews": 86,
+      "badge": "Çok Satan",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "switch": "Mekanik Blue",
+        "layout": "Full Size",
+        "lighting": "RGB",
+        "language": "TR-Q"
+      },
+      "features": [
+        "Mekanik Blue Switch",
+        "RGB Aydınlatma",
+        "Anti-Ghosting",
+        "Türkçe Q Layout",
+        "Multimedya Tuşları",
+        "Bilek Desteği"
+      ],
+      "stock": 65,
+      "description": "<div class='space-y-4'><p>GK702-RGB Klavye, mekanik blue switch'leri ve RGB aydınlatması ile gaming için ideal klavyedir. Anti-ghosting teknolojisi ve ergonomik tasarımı ile uzun süreli kullanımlarda konfor sağlar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "kb002",
+      "name": "GK801-Mekanik Pro",
+      "slug": "gk801-mekanik-pro",
+      "shortDescription": "Premium mekanik gaming klavye, PBT keycap",
+      "price": 1299,
+      "oldPrice": 1499,
+      "rating": 4.9,
+      "reviews": 42,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "switch": "Mekanik Red",
+        "layout": "Full Size",
+        "lighting": "RGB",
+        "language": "TR-Q"
+      },
+      "features": [
+        "Mekanik Red Switch",
+        "PBT Double-Shot Keycap",
+        "Per-Key RGB",
+        "N-Key Rollover",
+        "Alüminyum Gövde",
+        "USB Type-C"
+      ],
+      "stock": 38,
+      "description": "<div class='space-y-4'><p>GK801-Mekanik Pro, premium malzeme kalitesi ve üstün özellikleri ile profesyonel oyuncular için tasarlanmıştır. PBT keycap'ler, alüminyum gövde ve gelişmiş RGB kontrolleri ile üst segment bir klavye deneyimi sunar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

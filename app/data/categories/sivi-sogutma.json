@@ -1,0 +1,152 @@
+{
+  "category": "Sıvı Soğutma",
+  "filters": {
+    "priceRange": {
+      "min": 2500,
+      "max": 4000
+    },
+    "specs": {
+      "series": [
+        "GLACIER ARGB",
+        "GLACIER ECO-ARGB",
+        "GLACIER STREAM-ARGB"
+      ],
+      "radiator_size": [
+        "120mm AIO",
+        "240mm AIO",
+        "360mm AIO"
+      ],
+      "intel_socket": [
+        "LGA775",
+        "LGA1151",
+        "LGA1155",
+        "LGA1366",
+        "LGA2011",
+        "LGA2066",
+        "LGA1156",
+        "LGA1200",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "amd_socket": [
+        "AM4",
+        "AM3+",
+        "AM2/+",
+        "FM1",
+        "+/FM2",
+        "sTR4",
+        "AM5"
+      ],
+      "tdp": [
+        "200W",
+        "220W",
+        "230W",
+        "250W",
+        "265W",
+        "285W"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "glacier-240-stream",
+      "name": "GLACIER 240 STREAM-ARGB",
+      "slug": "glacier-240-stream-argb",
+      "shortDescription": "240mm radyatör ile güçlü soğutma performansı ve ARGB aydınlatma",
+      "price": 3696.34,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "GLACIER STREAM-ARGB",
+        "radiator_size": "240mm AIO",
+        "fan_speed": "160.000 saatte fazla ömürlü",
+        "pump_speed": "2 kat daha iyi verimlilik",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "285W"
+      },
+      "features": [
+        "Su pompasının çok uzun ömrü ve son derece düşük ses gürültüsü",
+        "Hafif ve hızlı ve kolay kurulum",
+        "0,14 mm Mikro Kanal teknolojisiyle optimize edilmiş bakır su bloğu",
+        "Bakır Rulman teknolojisine sahip bir çekirdekle donatılmış güçlü bir su pompası",
+        "Yüksek yoğunluklu radyatör, maksimum performans için tüm alüminyumları optimize etti",
+        "Yüksek verimlilik ve oksidasyona karşı dirence sahip işi transferi için Uzun Ömürlü Soğutma Sıvısı",
+        "Tüfek Yatağı tipi çekirdekle donatılmış 120 mm'lik fanları vardır ve 160.000 saatten fazla kullanım ömrüne sahiptir",
+        "Her türlü titresimi veya gürültüyü nötralize etmek için silikon titreşim önleyici pedlerle donatılmış fanlar",
+        "ARGB fan aydınlatmasına ve 'sonsuzluk aynası' efektli su bloğuna sahiptir",
+        "3 pinli ARGB soketli anakartlarla aydınlatmayı (MB Sync) senkronize etme özelliğine sahiptir",
+        "8 farklı aydınlatma efektine sahip kablolu ARGB aydınlatma kumandası dahil",
+        "Çarpıcı ARGB aydınlatmayla donatılmış, kalın ve dayanıklı 3 katmanlı tüplerin kullanılması",
+        "Olası sızıntıları önlemek için endüstriyel sınıfta çok güçlü bağlantılar ve sızdırmazlık",
+        "1,5 gramlık bir tüp GREEN GT-6 termal macun dahil (Termal İletkenlik 6,2W/m-k)",
+        "Oyun, hız aşırtma, sunucu ve iş istasyonu sistemleri için uygundur",
+        "Tüm Intel ve AMD platformu işlemci soketleriyle uyumluluk",
+        "2 yıl Green garantisi ve 5 yıl satış sonrası hizmetle"
+      ],
+      "stock": 8,
+      "description": "<div class='space-y-4'><p>GLACIER STREAM-ARGB serisi, en göz alıcı modeller ikinci nesil Green sıvı soğutucuları, daha az fan ve pompa gürültüsüne rağmen önceki nesle göre çok daha fazla verimlilik ve dayanıklılığa sahip olacak şekilde tasarlanmıştır.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo",
+      "inStock": true
+    },
+    {
+      "id": "glacier-360-eco",
+      "name": "GLACIER 360 ECO-ARGB",
+      "slug": "glacier-360-eco-argb",
+      "shortDescription": "360mm radyatör ile maksimum soğutma kapasitesi",
+      "price": 3620.51,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "GLACIER ECO-ARGB",
+        "radiator_size": "360mm AIO",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "285W"
+      },
+      "stock": 6,
+      "inStock": true
+    },
+    {
+      "id": "glacier-240-eco",
+      "name": "GLACIER 240 ECO-ARGB",
+      "slug": "glacier-240-eco-argb",
+      "shortDescription": "240mm radyatör ile dengeli performans ve fiyat",
+      "price": 2899.99,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "GLACIER ECO-ARGB",
+        "radiator_size": "240mm AIO",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "265W"
+      },
+      "stock": 10,
+      "inStock": true
+    },
+    {
+      "id": "glacier-360-argb",
+      "name": "GLACIER 360 ARGB",
+      "slug": "glacier-360-argb",
+      "shortDescription": "360mm radyatör ile premium soğutma çözümü",
+      "price": 3999.99,
+      "rating": 0,
+      "reviews": 0,
+      "specs": {
+        "series": "GLACIER ARGB",
+        "radiator_size": "360mm AIO",
+        "lighting": "ARGB",
+        "intel_socket": "LGA1700",
+        "amd_socket": "AM5",
+        "tdp": "285W"
+      },
+      "stock": 5,
+      "inStock": true
+    }
+  ]
+}

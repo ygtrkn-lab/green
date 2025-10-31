@@ -1,0 +1,59 @@
+{
+  "category": "Gaming Kulaklık",
+  "filters": {
+    "priceRange": {
+      "min": 300,
+      "max": 3000
+    },
+    "specs": {
+      "driver": [
+        "40mm",
+        "50mm",
+        "53mm"
+      ],
+      "connectivity": [
+        "3.5mm",
+        "USB",
+        "Wireless",
+        "Bluetooth"
+      ],
+      "surround": [
+        "Stereo",
+        "5.1 Surround",
+        "7.1 Surround"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "gh001",
+      "name": "Green Pro Gaming Headset",
+      "slug": "green-pro-gaming-headset",
+      "shortDescription": "7.1 Surround RGB Gaming Kulaklık",
+      "price": 1499,
+      "oldPrice": 1799,
+      "rating": 4.7,
+      "reviews": 28,
+      "stock": 35,
+      "specs": {
+        "driver": "50mm Neodymium",
+        "frequency": "20Hz-20kHz",
+        "impedance": "32 Ohm",
+        "microphone": "Çıkarılabilir",
+        "connectivity": "USB + 3.5mm",
+        "weight": "350g"
+      },
+      "features": [
+        "7.1 Surround Ses",
+        "RGB Aydınlatma",
+        "Çıkarılabilir Mikrofon",
+        "Hafıza Köpüğü Kulak Yastıkları",
+        "Ses Kontrol Ünitesi",
+        "Çift Bağlantı Seçeneği"
+      ],
+      "description": "Gerçekçi 7.1 surround ses deneyimi sunan profesyonel gaming kulaklık.",
+      "warranty": "2 Yıl Garanti",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

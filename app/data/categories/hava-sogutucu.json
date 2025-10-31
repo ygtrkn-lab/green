@@ -1,0 +1,97 @@
+{
+  "category": "Hava Soğutucu",
+  "filters": {
+    "priceRange": {
+      "min": 350,
+      "max": 1600
+    },
+    "specs": {
+      "socket": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1200"
+      ],
+      "tdp": [
+        "120W",
+        "150W",
+        "180W",
+        "200W+"
+      ],
+      "height": [
+        "120mm",
+        "140mm",
+        "160mm",
+        "180mm+"
+      ],
+      "type": [
+        "Tower",
+        "Low Profile",
+        "ARGB",
+        "RGB"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "cooler001",
+      "name": "NOTUS 400-ARGB",
+      "slug": "notus-400-argb",
+      "shortDescription": "4 ısı borusu, ARGB aydınlatmalı hava soğutucu",
+      "price": 1109,
+      "oldPrice": 1299,
+      "rating": 4.7,
+      "reviews": 18,
+      "badge": "ARGB",
+      "badgeColor": "bg-purple-500",
+      "specs": {
+        "socket": "AM5/LGA1700",
+        "tdp": "180W",
+        "height": "160mm",
+        "type": "ARGB"
+      },
+      "features": [
+        "4 Adet 6mm Isı Borusu",
+        "ARGB Aydınlatma",
+        "AM5/LGA1700 Uyumlu",
+        "180W TDP Desteği",
+        "PWM Fan Kontrolü",
+        "Kolay Montaj Sistemi"
+      ],
+      "stock": 25,
+      "description": "<div class='space-y-4'><p>NOTUS 400-ARGB, 4 adet 6mm ısı borusu ve ARGB aydınlatma sistemi ile yüksek performanslı CPU soğutması sağlar. AM5 ve LGA1700 soketleri destekler, 180W TDP'ye kadar işlemcileri soğutabilir.</p></div>",
+      "warranty": "3 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "cooler002",
+      "name": "NOTUS 600-ARGB",
+      "slug": "notus-600-argb",
+      "shortDescription": "6 ısı borusu, yüksek performanslı ARGB hava soğutucu",
+      "price": 1599,
+      "oldPrice": 1899,
+      "rating": 4.9,
+      "reviews": 12,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "socket": "AM5/LGA1700",
+        "tdp": "200W+",
+        "height": "180mm",
+        "type": "ARGB"
+      },
+      "features": [
+        "6 Adet 6mm Isı Borusu",
+        "Çift ARGB Fan",
+        "200W+ TDP Desteği",
+        "Yüksek Performans Soğutma",
+        "Premium Montaj Kiti",
+        "Sessiz Çalışma"
+      ],
+      "stock": 15,
+      "description": "<div class='space-y-4'><p>NOTUS 600-ARGB, 6 adet ısı borusu ve çift ARGB fan sistemi ile en yüksek performanslı işlemcileri bile soğutabilen premium hava soğutucudur. 200W+ TDP desteği ile overclock işlemciler için idealdir.</p></div>",
+      "warranty": "3 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "category": "Gaming Mouse",
+  "filters": {
+    "priceRange": {
+      "min": 200,
+      "max": 2000
+    },
+    "specs": {
+      "dpi": [
+        "8000 DPI",
+        "12000 DPI",
+        "16000 DPI",
+        "20000 DPI"
+      ],
+      "connectivity": [
+        "USB",
+        "Wireless",
+        "Bluetooth"
+      ],
+      "buttons": [
+        "6 Tuş",
+        "8 Tuş",
+        "12 Tuş"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "gm001",
+      "name": "Green Pro Gaming Mouse",
+      "slug": "green-pro-gaming-mouse",
+      "shortDescription": "16000 DPI RGB Gaming Mouse",
+      "price": 899,
+      "oldPrice": 999,
+      "rating": 4.8,
+      "reviews": 32,
+      "stock": 50,
+      "specs": {
+        "sensor": "PMW3389",
+        "dpi": "16000",
+        "buttons": "8 Programlanabilir",
+        "connectivity": "USB",
+        "weight": "89g",
+        "polling": "1000Hz"
+      },
+      "features": [
+        "16000 DPI Sensör",
+        "RGB Aydınlatma",
+        "8 Programlanabilir Tuş",
+        "Ergonomik Tasarım",
+        "Hafif Gövde",
+        "1ms Tepki Süresi"
+      ],
+      "description": "Profesyonel e-spor oyuncuları için tasarlanmış ultra hassas gaming mouse.",
+      "warranty": "2 Yıl Garanti",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

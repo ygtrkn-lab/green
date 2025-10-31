@@ -1,0 +1,349 @@
+{
+  "header": {
+    "menu": {
+      "computer": {
+        "name": "Computer",
+        "description": "Gaming PC and AIO systems"
+      },
+      "cooling": {
+        "name": "Cooling",
+        "description": "Air, liquid cooling and case fans"
+      },
+      "powerSupply": {
+        "name": "Power Supply",
+        "description": "Military and gaming power supplies"
+      },
+      "pcCase": {
+        "name": "PC Case",
+        "description": "Modern and gaming PC cases"
+      },
+      "gamingAccessories": {
+        "name": "Gaming Accessories",
+        "description": "Keyboard, mouse and headset"
+      }
+    },
+    "categories": {
+      "gamingPc": "Gaming PC",
+      "aioPc": "AIO PC",
+      "liquidCooling": "Liquid Cooling",
+      "airCooling": "Air Cooling",
+      "caseFan": "Case Fan",
+      "militaryPsu": "Military PSU",
+      "gamingPsu": "Gaming PSU",
+      "pcCase": "PC Case",
+      "keyboard": "Keyboard",
+      "mouse": "Mouse",
+      "headset": "Headset"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "phone": "Phone",
+      "email": "Email",
+      "callUs": "Call Us"
+    },
+    "language": {
+      "turkish": "Turkish",
+      "english": "English",
+      "selectLanguage": "Select Language"
+    },
+    "featuredProducts": "Featured Products",
+    "login": "Login",
+    "mobileMenu": "Menu"
+  },
+  "common": {
+    "loading": "Loading...",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "categories": "Categories",
+    "products": "Products",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "viewDetails": "View Details",
+    "price": "Price",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "discount": "Discount",
+    "save": "Save",
+    "starting": "starting at",
+    "backToTop": "Back to Top",
+    "goUp": "Go Up"
+  },
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "support": "Support"
+  },
+  "footer": {
+    "sections": {
+      "company": "Company",
+      "support": "Support",
+      "categories": "Categories",
+      "contact": "Contact"
+    },
+    "links": {
+      "aboutUs": "About Us",
+      "companyInfo": "Company Information",
+      "contact": "Contact",
+      "bankInfo": "Bank Information",
+      "warranty": "Warranty Terms",
+      "returns": "Return Policy",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "agreement": "Sales Agreement",
+      "allCategories": "All Categories",
+      "gamingPc": "Gaming PC",
+      "cooling": "Liquid Cooling",
+      "accessories": "Gaming Mouse",
+      "keyboard": "Keyboard",
+      "headset": "Headset"
+    },
+    "description": "We are here to deliver the highest quality products of the gaming world to gamers in Turkey.",
+    "companyName": "GREEN PLANET GAMING",
+    "copyright": "All rights reserved"
+  },
+  "hero": {
+    "featuredProduct": "Featured Product",
+    "starting": "starting",
+    "watchVideo": "Watch Video",
+    "explore": "Explore",
+    "discover": "Discover",
+    "examine": "Examine",
+    "buyNow": "Buy Now",
+    "slides": {
+      "aio": {
+        "title": "AIO PC Systems",
+        "subtitle": "H610 Quality 22-24-27inch All-in-One Computers",
+        "description": "Ready-to-use All-in-One PC systems. Compact design with powerful performance combined.",
+        "features": ["4K Display", "HDR Support", "RTX 4070", "Ray Tracing", "Intel i7", "High Performance", "Compact Design", "Elegant Look"]
+      },
+      "gaming": {
+        "title": "Gaming PCs",
+        "subtitle": "Gaming Experience with RTX 4060",
+        "description": "High-performance gaming computers designed for professional gamers.",
+        "features": ["RTX 4090", "4K Gaming", "Intel i9-13900K", "Maximum Power", "32GB DDR5", "High Speed", "2TB NVMe SSD", "Ultra Fast"]
+      },
+      "powerSupply": {
+        "title": "Power Supplies",
+        "subtitle": "HP EVO 80Plus GOLD Series",
+        "description": "ARGB illuminated, military-designed power supplies. Up to 93% efficiency.",
+        "features": ["80Plus GOLD", "ARGB Lighting", "5 Year Warranty", "Military Design"]
+      },
+      "airCooling": {
+        "title": "Air Coolers",
+        "subtitle": "NOTUS 400-ARGB Series",
+        "description": "Powerful cooling performance with 4 copper heat pipes and ARGB lighting.",
+        "features": ["4x Heat Pipes", "ARGB Infinity Mirror", "1800RPM Fan", "HDT Technology"]
+      },
+      "liquidCooling": {
+        "title": "Liquid Cooling",
+        "subtitle": "GLACIER 240 STREAM-ARGB",
+        "description": "Silent and powerful cooling solution with 240mm radiator and ARGB fans.",
+        "features": ["240mm Radiator", "ARGB Fans", "Copper Bearing", "2 Year Warranty", "360mm Radiator", "Maximum Cooling", "RGB Lighting", "Elegant Look", "Silent Operation", "25dB", "Easy Installation", "Plug & Play"]
+      },
+      "caseFan": {
+        "title": "Case Fans",
+        "subtitle": "GF120-FSB Ultra Silent",
+        "description": "Ultra silent operation and long life guarantee with FSB technology.",
+        "features": ["Ultra Silent", "FSB Technology", "Shark-Fin Design", "Anti-Vibration"]
+      },
+      "keyboard": {
+        "title": "Gaming Keyboards",
+        "subtitle": "GK702-RGB Mechanical Feel",
+        "description": "Professional gaming experience with 19 anti-ghost keys and 4 macro keys.",
+        "features": ["19 Anti-Ghost", "RGB Lighting", "4 Macro Keys", "Turkish Q Layout"]
+      },
+      "mouse": {
+        "title": "Gaming Mouse",
+        "subtitle": "GM606 RGB Mesh Design",
+        "description": "Light and ergonomic design with 7200 DPI precision and mesh body.",
+        "features": ["7200 DPI", "Mesh Body", "6 Buttons", "ARGB Lighting", "RGB Sync", "Full Control", "Premium Quality", "Long Life"]
+      },
+      "pcCase": {
+        "title": "PC Cases",
+        "subtitle": "GREEN GAIA Tempered Glass",
+        "description": "Modern PC cases with advanced ventilation and cable management. RGB lighting support.",
+        "features": ["Tempered Glass", "RGB Lighting", "Cable Management", "Advanced Ventilation"]
+      },
+      "headset": {
+        "title": "Gaming Headset",
+        "subtitle": "GH505 7.1 Surround Sound",
+        "description": "7.1 surround sound gaming headset designed for professional gamers.",
+        "features": ["7.1 Surround", "RGB Lighting", "Noise Cancelling", "Ergonomic Design"]
+      }
+    },
+    "featureCards": {
+      "secureShoppingTitle": "Secure Shopping",
+      "secureShoppingSubtitle": "256-bit SSL encryption",
+      "warrantyTitle": "2 Year Warranty",
+      "warrantySubtitle": "Free technical support",
+      "psuWarrantyTitle": "PSU Warranty",
+      "psuWarrantySubtitle": "Up to 10 Years 10 Months",
+      "premiumQualityTitle": "Premium Quality",
+      "premiumQualitySubtitle": "Turkey's largest"
+    }
+  },
+  "products": {
+    "featured": "Featured Products",
+    "specifications": "Specifications",
+    "description": "Description",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products",
+    "comparison": {
+      "bestSeller": "Best Seller",
+      "ultraLight": "Ultra Light Design",
+      "perfectSensor": "Perfect Sensor",
+      "longBattery": "Long Battery Life",
+      "highPrice": "High Price",
+      "rightHandFocused": "Right Hand Focused Design",
+      "bestSensor": "Best Sensor",
+      "ergonomicDesign": "Ergonomic Design",
+      "premiumPrice": "Premium Price",
+      "largeSize": "Large Size",
+      "lightestDesign": "Lightest Design",
+      "symmetricStructure": "Symmetric Structure",
+      "qualitySensor": "Quality Sensor",
+      "mediumBattery": "Medium Battery Life",
+      "limitedSoftware": "Limited Software",
+      "heroSensor": "HERO 25K Sensor",
+      "programmableButtons": "5 Programmable Buttons",
+      "lightspeedTech": "LIGHTSPEED Technology",
+      "focusProSensor": "Focus Pro 30K Sensor",
+      "fivePlusOneButtons": "5+1 Programmable Buttons",
+      "hyperspeedWireless": "HyperSpeed Wireless",
+      "pawSensor": "PAW 3395 Sensor",
+      "sixButtons": "6 Programmable Buttons",
+      "wirelessTech": "2.4GHz Wireless",
+      "symmetricDesign": "Symmetric Design"
+    }
+  },
+  "pages": {
+    "categories": {
+      "title": "Categories",
+      "description": "Explore our gaming product categories",
+      "featured": {
+        "title": "Featured Categories",
+        "subtitle": "Best of Gaming World",
+        "description": "Premium gaming equipment specially selected for professional gamers. Take your gaming experience to the peak with the highest quality products in every category.",
+        "categories": {
+          "gamingPc": {
+            "name": "Gaming PC",
+            "description": "High-performance gaming computers",
+            "features": ["RTX 4060TI", "Intel i5", "32GB RAM"]
+          },
+          "gamingMouse": {
+            "name": "Gaming Mouse",
+            "description": "Precision sensor and ergonomic gaming mice",
+            "features": ["7200 DPI", "RGB", "Ergonomic"]
+          },
+          "liquidCooling": {
+            "name": "Liquid Cooling",
+            "description": "AIO and custom loop cooling systems",
+            "features": ["360mm", "ARGB", "AM5/LGA1700"]
+          }
+        },
+        "explore": "Explore",
+        "viewAllCategories": "View All Categories",
+        "downloadCatalog": "Download Catalog"
+      }
+    },
+    "about": {
+      "title": "About Green",
+      "description": "Learn more about Green Planet Gaming"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Get in touch with our team"
+    },
+    "warranty": {
+      "title": "Warranty Terms",
+      "description": "General warranty conditions"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "Our privacy policy and data protection"
+    },
+    "returns": {
+      "title": "Return Policy",
+      "description": "Return conditions and procedures"
+    },
+    "company": {
+      "title": "Company Information",
+      "description": "Corporate information and details"
+    },
+    "bank": {
+      "title": "Bank Account Information",
+      "description": "Payment and bank account details"
+    },
+    "agreement": {
+      "title": "Sales Agreement",
+      "description": "Terms and conditions of sale"
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "description": "Information about our cookie usage"
+    }
+  },
+  "banners": {
+    "gamingPc": {
+      "title": "Gaming PC",
+      "subtitle": "Unlimited Performance with RTX 4090",
+      "description": "Gaming computers equipped with the latest technology. Experience 4K resolution with 120+ FPS.",
+      "features": {
+        "rtx4090": "RTX 4090",
+        "rtx4090Value": "4K Gaming",
+        "inteli9": "Intel i9-13900K",
+        "inteli9Value": "Maximum Power",
+        "ram32gb": "32GB DDR5",
+        "ram32gbValue": "High Speed",
+        "ssd2tb": "2TB NVMe SSD",
+        "ssd2tbValue": "Ultra Fast"
+      }
+    },
+    "aioPc": {
+      "title": "AIO PC",
+      "subtitle": "Compact and Powerful",
+      "description": "All power in one monitor! Ideal All-in-One computers for work and gaming.",
+      "features": {
+        "display4k": "4K Display",
+        "display4kValue": "HDR Support",
+        "rtx4070": "RTX 4070",
+        "rtx4070Value": "Ray Tracing",
+        "inteli7": "Intel i7",
+        "inteli7Value": "High Performance",
+        "compactDesign": "Compact Design",
+        "compactDesignValue": "Elegant Look"
+      }
+    },
+    "coolingSystems": {
+      "title": "Cooling Systems",
+      "subtitle": "Cooling for Maximum Performance",
+      "description": "Keep your system always cool. Maximum performance with air and liquid cooling solutions.",
+      "features": {
+        "radiator360": "360mm Radiator",
+        "radiator360Value": "Maximum Cooling",
+        "rgbLighting": "RGB Lighting",
+        "rgbLightingValue": "Elegant Look",
+        "silentOperation": "Silent Operation",
+        "silentOperationValue": "25dB",
+        "easyInstallation": "Easy Installation",
+        "easyInstallationValue": "Plug & Play"
+      }
+    },
+    "peripherals": {
+      "title": "Peripherals",
+      "subtitle": "Professional Gaming Equipment",
+      "description": "Take your gaming experience to the peak. The best gaming keyboards, mice and accessories.",
+      "features": {
+        "rgbSync": "RGB Sync",
+        "rgbSyncValue": "Full Control",
+        "premiumQuality": "Premium Quality",
+        "premiumQualityValue": "Long Life"
+      }
+    }
+  }
+}

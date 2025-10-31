@@ -1,0 +1,93 @@
+{
+  "category": "Gaming Kulaklık",
+  "filters": {
+    "priceRange": {
+      "min": 500,
+      "max": 2500
+    },
+    "specs": {
+      "connection": [
+        "Kablolu",
+        "Kablosuz",
+        "Bluetooth"
+      ],
+      "sound": [
+        "Stereo",
+        "7.1 Surround",
+        "Virtual Surround"
+      ],
+      "microphone": [
+        "Çıkarılabilir",
+        "Sabit",
+        "Noise Cancelling"
+      ],
+      "lighting": [
+        "RGB",
+        "ARGB",
+        "Yok"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "headset001",
+      "name": "GH505 Gaming Kulaklık",
+      "slug": "gh505-gaming-kulaklik",
+      "shortDescription": "7.1 Surround ses ve RGB aydınlatma",
+      "price": 899,
+      "oldPrice": 1099,
+      "rating": 4.7,
+      "reviews": 124,
+      "badge": "Çok Satan",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "connection": "Kablolu",
+        "sound": "7.1 Surround",
+        "microphone": "Noise Cancelling",
+        "lighting": "RGB"
+      },
+      "features": [
+        "7.1 Surround Ses",
+        "RGB Aydınlatma",
+        "Noise Cancelling Mikrofon",
+        "Ultra Hafif Tasarım",
+        "Kulak Üstü Yastıklar",
+        "Ses Kontrol Ünitesi"
+      ],
+      "stock": 45,
+      "description": "<div class='space-y-4'><p>GH505 Gaming Kulaklık, 7.1 surround ses teknolojisi ve RGB aydınlatma ile oyun deneyiminizi üst seviyeye taşır. Noise cancelling mikrofon ve ultra hafif tasarımı ile uzun süreli kullanımlarda maksimum konfor sağlar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "headset002",
+      "name": "GH808 Wireless Pro",
+      "slug": "gh808-wireless-pro",
+      "shortDescription": "Kablosuz gaming kulaklık, virtual surround",
+      "price": 1499,
+      "oldPrice": 1799,
+      "rating": 4.9,
+      "reviews": 87,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "connection": "Kablosuz",
+        "sound": "Virtual Surround",
+        "microphone": "Çıkarılabilir",
+        "lighting": "ARGB"
+      },
+      "features": [
+        "Virtual Surround Ses",
+        "ARGB Aydınlatma",
+        "Çıkarılabilir Mikrofon",
+        "40 Saat Pil Ömrü",
+        "Hızlı Şarj",
+        "Dual Wireless"
+      ],
+      "stock": 28,
+      "description": "<div class='space-y-4'><p>GH808 Wireless Pro, kablosuz özgürlüğü ve virtual surround ses teknolojisi ile premium gaming deneyimi sunar. 40 saate varan pil ömrü ve hızlı şarj özelliği ile kesintisiz oyun keyfi yaşatır.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}

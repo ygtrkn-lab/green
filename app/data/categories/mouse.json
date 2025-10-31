@@ -1,0 +1,95 @@
+{
+  "category": "Mouse",
+  "filters": {
+    "priceRange": {
+      "min": 300,
+      "max": 1500
+    },
+    "specs": {
+      "dpi": [
+        "3200 DPI",
+        "6400 DPI",
+        "7200 DPI",
+        "12000 DPI"
+      ],
+      "connection": [
+        "Kablolu",
+        "Kablosuz",
+        "Bluetooth"
+      ],
+      "sensor": [
+        "Optik",
+        "Lazer",
+        "PixArt"
+      ],
+      "lighting": [
+        "RGB",
+        "ARGB",
+        "Tek Renk",
+        "Yok"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "mouse001",
+      "name": "GM606 RGB Mesh Mouse",
+      "slug": "gm606-rgb-mesh-mouse",
+      "shortDescription": "7200 DPI hassasiyet, mesh gövde tasarım",
+      "price": 412,
+      "oldPrice": 499,
+      "rating": 4.6,
+      "reviews": 89,
+      "badge": "Çok Satan",
+      "badgeColor": "bg-primary",
+      "specs": {
+        "dpi": "7200 DPI",
+        "connection": "Kablolu",
+        "sensor": "PixArt",
+        "lighting": "RGB"
+      },
+      "features": [
+        "7200 DPI Hassasiyet",
+        "Mesh Gövde Tasarım",
+        "RGB Aydınlatma",
+        "6 Programlanabilir Tuş",
+        "Ergonomik Tasarım",
+        "Anti-Kayma Yüzey"
+      ],
+      "stock": 75,
+      "description": "<div class='space-y-4'><p>GM606 RGB Mesh Mouse, 7200 DPI hassasiyet ve mesh gövde tasarımı ile gaming için ideal mouse'dur. RGB aydınlatma ve 6 programlanabilir tuş ile kişiselleştirilebilir oyun deneyimi sunar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    },
+    {
+      "id": "mouse002",
+      "name": "GM808 Wireless Pro",
+      "slug": "gm808-wireless-pro",
+      "shortDescription": "Kablosuz gaming mouse, 12000 DPI",
+      "price": 899,
+      "oldPrice": 1099,
+      "rating": 4.8,
+      "reviews": 56,
+      "badge": "Premium",
+      "badgeColor": "bg-gold-500",
+      "specs": {
+        "dpi": "12000 DPI",
+        "connection": "Kablosuz",
+        "sensor": "PixArt",
+        "lighting": "ARGB"
+      },
+      "features": [
+        "12000 DPI Hassasiyet",
+        "Kablosuz Bağlantı",
+        "ARGB Aydınlatma",
+        "8 Programlanabilir Tuş",
+        "50 Saat Pil Ömrü",
+        "Hızlı Şarj"
+      ],
+      "stock": 42,
+      "description": "<div class='space-y-4'><p>GM808 Wireless Pro, 12000 DPI hassasiyet ve kablosuz özgürlüğü ile profesyonel gaming için tasarlanmıştır. ARGB aydınlatma ve 50 saate varan pil ömrü ile kesintisiz oyun deneyimi sunar.</p></div>",
+      "warranty": "2 Yıl",
+      "shipping": "Ücretsiz Kargo"
+    }
+  ]
+}
