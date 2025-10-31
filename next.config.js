@@ -8,6 +8,14 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+  },
+  experimental: {
+    missingSuspenseWithCSRBailout: false,
+  },
+  webpack: (config, { isServer }) => {
+    config.resolve.fallback = { fs: false };
+    return config;
+  },
     remotePatterns: [
       {
         protocol: 'https',
