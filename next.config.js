@@ -6,8 +6,14 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  compiler: {
+    removeConsole: true,
+  },
+  swcMinify: true,
+  poweredByHeader: false,
+  compress: true,
   images: {
-    unoptimized: true,
+    unoptimized: false,
     remotePatterns: [
       {
         protocol: 'https',
@@ -41,6 +47,14 @@ const nextConfig = {
     missingSuspenseWithCSRBailout: false,
     optimizeCss: true,
     optimizePackageImports: ['lucide-react', 'framer-motion'],
+    scrollRestoration: true,
+    workerThreads: true,
+    webpackBuildWorker: true,
+    optimizeServerReact: true,
+    turbotrace: {
+      logLevel: 'error',
+      logDetail: true,
+    }
   },
 }
 

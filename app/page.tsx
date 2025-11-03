@@ -1,38 +1,67 @@
 'use client'
 
+import dynamic from 'next/dynamic'
+import { Suspense } from 'react'
 import HeroSlider from './components/HeroSlider'
-import ParticleHero from './components/ParticleHero'
-import FlashDeals from './components/FlashDeals'
-import GlassTechCards from './components/GlassTechCards'
-import Newsletter from './components/Newsletter'
-import WhyGreenSection from './components/WhyGreenSection'
-import HomeCategoryRows from './components/HomeCategoryRows'
-import DiscoverSections from './components/DiscoverSections'
+
+// Dinamik olarak yüklenen bileşenler
+const ParticleHero = dynamic(() => import('./components/ParticleHero'), {
+  ssr: false,
+  loading: () => <div className="h-[50vh] bg-gradient-to-b from-black to-gray-900" />
+})
+
+const FlashDeals = dynamic(() => import('./components/FlashDeals'), {
+  loading: () => <div className="h-96 animate-pulse bg-gray-900" />
+})
+
+const GlassTechCards = dynamic(() => import('./components/GlassTechCards'), {
+  loading: () => <div className="h-96 animate-pulse bg-gray-900" />
+})
+
+const Newsletter = dynamic(() => import('./components/Newsletter'))
+const WhyGreenSection = dynamic(() => import('./components/WhyGreenSection'))
+const HomeCategoryRows = dynamic(() => import('./components/HomeCategoryRows'), {
+  loading: () => <div className="h-96 animate-pulse bg-gray-900" />
+})
+
+const DiscoverSections = dynamic(() => import('./components/DiscoverSections'), {
+  loading: () => <div className="h-96 animate-pulse bg-gray-900" />
+})
 
 export default function Home() {
   return (
-    <>
-      {/* Ana Slider */}
-      <HeroSlider />
+    <main>
+      <Suspense>
+        <HeroSlider />
+      </Suspense>
 
-      <ParticleHero />
+      <Suspense>
+        <ParticleHero />
+      </Suspense>
 
-      {/* Flash Fırsatlar */}
-      <FlashDeals />
+      <Suspense>
+        <FlashDeals />
+      </Suspense>
 
-      {/* Category rows (from feed) */}
-      <HomeCategoryRows />
+      <Suspense>
+        <HomeCategoryRows />
+      </Suspense>
 
-      {/* Glass Tech Cards */}
-      <GlassTechCards />
+      <Suspense>
+        <GlassTechCards />
+      </Suspense>
 
-  <DiscoverSections />
+      <Suspense>
+        <DiscoverSections />
+      </Suspense>
 
-      {/* Haber Bülteni */}
-      <Newsletter />
+      <Suspense>
+        <Newsletter />
+      </Suspense>
 
-      {/* Why Green Section */}
-      <WhyGreenSection />
-    </>
+      <Suspense>
+        <WhyGreenSection />
+      </Suspense>
+    </main>
   )
 }
