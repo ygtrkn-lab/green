@@ -1,18 +1,35 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
+import dynamic from 'next/dynamic'
 import Link from 'next/link'
-import {
-  Clock,
-  ShoppingCart,
-  Heart,
-  Star,
-  Zap
-} from 'lucide-react'
-import { motion, AnimatePresence } from 'framer-motion'
+import Image from 'next/image'
+import { Clock, ShoppingCart, Heart, Star, Zap } from 'lucide-react'
+import { motion } from 'framer-motion'
 import { useCart } from '../context/CartContext'
+import LightCanvas from './LightCanvas'
 
-const FLASH_DEALS = [
+const AnimatePresence = dynamic(() => import('framer-motion').then(mod => mod.AnimatePresence), {
+  ssr: false
+})
+
+interface FlashDeal {
+  id: string
+  name: string
+  originalPrice: number
+  flashPrice: number
+  discount: number
+  images: string[]
+  rating: number
+  reviews: number
+  sold: number
+  stock: number
+  specs: string[]
+  badge: string
+  badgeColor: string
+}
+
+const FLASH_DEALS: FlashDeal[] = [
   {
     id: 'gpsu002',
     name: 'Gaming PSU 850W RGB',
@@ -106,7 +123,7 @@ const FLASH_DEALS = [
 ]
 
 const FlashDeals = () => {
-  const flashDeals = FLASH_DEALS
+  const { addItem } = useCart()
   const [timeLeft, setTimeLeft] = useState({
     hours: 23,
     minutes: 45,
@@ -114,7 +131,7 @@ const FlashDeals = () => {
   })
 
   const [hoveredDeal, setHoveredDeal] = useState<string | null>(null)
-  const { addItem } = useCart()
+ 
 
 
   useEffect(() => {
@@ -239,7 +256,7 @@ const FlashDeals = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.6 }}
         >
-          {flashDeals.map((deal, index) => (
+          {FLASH_DEALS.map((deal, index) => (
             <motion.article
               key={deal.id}
               className="group relative flex h-full flex-col overflow-hidden rounded-3xl bg-white/80 p-5 shadow-xl shadow-slate-900/5 ring-1 ring-slate-200/70 backdrop-blur-xl transition-all sm:p-6"
